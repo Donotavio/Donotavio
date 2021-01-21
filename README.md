@@ -1,6 +1,6 @@
 # Helo Word!!! 🤓
 
-<img align="center" src="https://scontent.fpfb1-1.fna.fbcdn.net/v/t1.0-9/12742327_980512862028792_8674229382819488090_n.jpg?_nc_cat=103&_nc_sid=e3f864&_nc_ohc=inl2-5Up36sAX93xZg7&_nc_ht=scontent.fpfb1-1.fna&oh=f376dd171ab8b1f438d1ae8752bc6271&oe=5FB57284"/>
+<img align="center" src="https://scontent.fpfb1-1.fna.fbcdn.net/v/t1.0-9/12742327_980512862028792_8674229382819488090_n.jpg?_nc_cat=103&ccb=2&_nc_sid=e3f864&_nc_ohc=bEVRCe58HTwAX-_jD4y&_nc_ht=scontent.fpfb1-1.fna&oh=c8bfc7e9906bd6d946534407bb052cb8&oe=60300E04"/>
 
 #
 # About Me
@@ -8,7 +8,6 @@
 - 🔭 I am currently working as a Database Analyst
 - 🌱 I am currently learning python
 - 📫 How to reach me: ribeitemp@gmail.com
-- 😄 My website: https://advanceweb.com.br/
 - ⚡ Fun fact: I'm a technology lover
 
 #
