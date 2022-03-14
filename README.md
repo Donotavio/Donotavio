@@ -6,7 +6,7 @@
 # About Me
 
 - 🔭 I am currently working as a Database Analyst
-- 🌱 I am currently learning python
+- 🌱 Currently studying Data Science Bachelor
 - 📫 How to reach me: ribeitemp@gmail.com
 - ⚡ Fun fact: I'm a technology lover
 
@@ -16,8 +16,7 @@
 - <a href="https://www.instagram.com/donotavio/"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg"> <i>  Instagram</a>
 - <a href="https://www.facebook.com/donotavioo/"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"/>  Facebook</a>
 - <a href="https://www.twitter.com/donotavio/"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg"/>  Twitter</a>
-- <a href="https://www.linkedin.com/in/otávio-ribeiro-a49080b2/"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg"/>  Linkedin</a>
-- <a href="skype:Donotavio?call"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409949.svg"/>  Skype</a>
+- <a href="https://www.linkedin.com/in/donotavio/"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg"/>  Linkedin</a>
 - <a href="mailto:ribeitemp@gmai.com"><img height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg"/>  E-Mail</i></a>
 
 #
