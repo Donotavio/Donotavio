@@ -68,8 +68,14 @@ _
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOElkpE28GRm41MmmFHwRhfgbvFHVdHZ6x4Q&usqp=CAU"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
             alt="aws" width="40" height="40" /> </a>
+    <a href="https://www.linux.org/" target="_blank" title ="Linux"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+            alt="linux" width="40" height="40" /> </a>
+    <a href="https://ubuntu.com/" target="_blank" title ="Ubuntu"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"
+            alt="ubuntu" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
