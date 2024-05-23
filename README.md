@@ -3,6 +3,7 @@
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Donotavio" alt="visitor badge"/>
+    <img src="https://wakatime.com/badge/user/ee59639e-06da-4c79-af0f-2be09bc8780a.svg" alt="Total time coded since Jun 11 2020" />
 </p>
 
 <div align="center">
