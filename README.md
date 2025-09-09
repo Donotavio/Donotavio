@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donotavio&theme=radical" alt="GitHub Streak"/>
-</p>
-
 <!-- Troféus: apenas os que têm pontuação no seu perfil -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Donotavio&theme=radical&no-frame=true&no-bg=true&title=MultiLanguage,LongTimeUser,Experience,Repositories,Stars" alt="GitHub Trophies filtrados"/>
@@ -32,7 +28,8 @@ Sou **Gerente de Engenharia de Dados na Educbank** (fintech) e uso **Databricks 
 
 ## Stack principal (foco em produção)
 **Databricks** (Repos, Workflows, Auto Loader, MLflow) • **Apache Spark** (PySpark) • **Delta Lake** (time travel, Z-Ordering) • **Orquestração** (Airflow, DBT, Databricks Workflows) •
-**AWS** (S3, EC2, IAM) • **Python/SQL** • **Kafka** • **Terraform** • **PostgreSQL** • **MongoDB** • **GitHub Actions**
+**AWS** (S3, EC2, IAM) • **Azure** (ADLS Gen2, Event Hubs*Kafka API*, Key Vault, Synapse/SQL, Managed Identity) •
+**Python/SQL** • **Kafka** • **Terraform** • **PostgreSQL** • **MongoDB** • **GitHub Actions**
 
 <p>
   <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white"/>
@@ -40,12 +37,18 @@ Sou **Gerente de Engenharia de Dados na Educbank** (fintech) e uso **Databricks 
   <img src="https://img.shields.io/badge/Delta%20Lake-00A3E0?logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=white"/>
+
+  <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white"/>
+
+  <!-- Dev & Data -->
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/>
 </p>
 
 ---
