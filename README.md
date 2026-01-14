@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Donotavio&theme=radical&no-frame=true&no-bg=true&title=Experience,Repositories,Stars" alt="GitHub Trophies"/>
+  <a href="https://github-profile-trophy.ryo-ma.vercel.app/?username=Donotavio&theme=radical&no-frame=true&no-bg=true&title=Experience,Repositories,Stars">
+    <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=Donotavio&theme=radical&no-frame=true&no-bg=true&title=Experience,Repositories,Stars" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 <div align="center">
@@ -125,15 +127,16 @@ GRANT SELECT ON ALL TABLES IN SCHEMA edbk_prod.finance TO `grp_fin_readers`;
 - **Pipelines em Databricks**: notebooks e jobs para ingestão (batch/streaming), **Delta Lake** e **MLflow**.
 - **Orquestração**: DAGs do **Airflow** e **Workflows** no Databricks para ELT e features de ML.
 - **Boas práticas**: testes, tratamento de schema, particionamento, Z-Ordering, otimização de custos em S3/compute.
-
-> Dica: fixe (pin) seus repositórios-chave aqui com uma frase de impacto: problema → solução → resultado (performance/custo/qualidade).
+- **Saul Goodman — Extensão anti-procrastinação**: Procrastinação invisível → extensão **Manifest V3** em **TypeScript** com índice (badge/popup), alertas/Chart.js e modo terremoto → foco recuperado sem enviar dados para fora do navegador. Links: [Repositório](https://github.com/Donotavio/saul_goodman) • [Chrome Web Store](https://chromewebstore.google.com/search/saul%20goodman) • [Site oficial](https://donotavio.github.io/saul_goodman/).
 
 ---
 
 ## Métricas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donotavio&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Langs"/>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Donotavio&layout=compact&theme=radical&langs_count=8&hide=html,css">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Donotavio&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Langs"/>
+  </a>
 </div>
 
 ---
